@@ -1,3 +1,8 @@
+
+
+「wordpress页面自定义菜单，可以为每一个页面设置一个单独的菜单。」
+
+
 === Plugin Name Custom Primary Menu Selector ===
 Contributors: omibeaver
 Tags: custom menu, primary menu, header menu, footer menu
